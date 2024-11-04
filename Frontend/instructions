@@ -1,0 +1,48 @@
+1.Blockchain is a decentralized, public ledger that records transactions in blocks that are linked together in a chain. It's a shared, immutable ledger that can be used to track and trade assets, including financial assets, intellectual property, and more.
+Blockchain works by: 
+Decentralization
+Control and decision making is transferred from a centralized entity to a distributed network. 
+Immutability
+Once a transaction is recorded, it can't be changed or altered. 
+Consensus
+New transactions can only be recorded when the majority of participants in the network agree. 
+Cryptography
+Each individual has a private and public key that they use to produce a secure digital identity reference. 
+Blocks
+Each block is a file that stores and encrypts information. Blocks are identified by long numbers that include transaction information from previous blocks and new transaction information. 
+
+2.What is a Distributed Ledger?
+
+A distributed ledger is a decentralized system that records transactions across a network of computers, rather than relying on a single central authority.
+
+Comparison with Traditional Ledger:
+
+Characteristics	Traditional Ledger	Distributed Ledger
+Centralization	Centralized		  Decentralized
+Security	Vulnerable		  Highly secure
+Transparency	Limited			  Transparent
+Accessibility	Limited			  24/7 accessible
+
+3.explain the architecture of block chain
+
+Node: A computer/device in the blockchain network, maintaining a copy of the blockchain ledger and validating/relaying transactions.
+
+Transaction: The smallest unit of a blockchain system, representing value/data transfer between participants.
+
+Block: A container for multiple transactions, consisting of a header and transaction list.
+
+Chain: A sequence of linked blocks, growing as new blocks are added.
+
+Ledger: A distributed ledger across all nodes, continuously updated and synchronized.
+
+Cryptography: The security backbone, using algorithms like hashing and digital signatures to secure data and ensure tamper-proof transactions.
+
+
+Symmetric vs Asymmetric Key Cryptography
+
+Characteristic	Symmetric	Asymmetric
+Key		Same key	Public & Private keys
+Key Exchange	Hard		Easy
+Speed		Fast		Slow
+Examples	AES, DES	RSA, ECC
+Use		Data encryption	Key exchange, signatures
